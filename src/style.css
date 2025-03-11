@@ -175,7 +175,7 @@ h2 {
 
 .labels-vertical {
 	display: grid;
-/* 	grid-template-rows: repeat(10, 35px); */
+	/* 	grid-template-rows: repeat(10, 35px); */
 	align-items: center;
 	margin-right: 5px;
 }
@@ -194,7 +194,7 @@ h2 {
 	gap: 0;
 }
 
-/* Media Queries for Responsive Design */
+/* Responsive Layout */
 @media (max-width: 768px) {
 	body {
 		font-size: 0.9em;
